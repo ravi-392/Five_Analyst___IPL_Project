@@ -1,0 +1,567 @@
+,Name,Batting_Hand,Bowling_Skill,Country
+0,A Ashish Reddy,Right_Hand,Right-arm medium,India
+1,A Chandila,Right_Hand,Right-arm offbreak,India
+2,A Chopra,Right_Hand,Right-arm offbreak,India
+3,A Choudhary,Right_hand,Left-arm fast-medium,
+4,A Dananjaya,Right_Hand,Right-arm offbreak,
+5,A Flintoff,Right_Hand,Right-arm fast-medium,England
+6,A Hales,Right_hand,,
+7,A Joseph,Right_Hand,Right-arm fast,
+8,A Kumble,Right_Hand,Legbreak googly,India
+9,A Mishra,Right_Hand,Legbreak,India
+10,A Mithun,Right_Hand,Right-arm medium,India
+11,A Mukund,Right_Hand,Legbreak googly,India
+12,A Nehra,Right_Hand,Left-arm medium-fast,India
+13,A Nel,Right_Hand,Right-arm fast-medium,South Africa
+14,A Roy,Left_Hand,Slow left-arm orthodox,
+15,A Singh,Right_Hand,Right-arm medium-fast,India
+16,A Symonds,Right_Hand,Right-arm offbreak,Australia
+17,A Turner,Right_Hand,,
+18,A Uniyal,Right_Hand,Left-arm medium,India
+19,A Zampa,Right_Hand,Legbreak googly,Australia
+20,AA Bilakhia,Right_Hand,Right-arm medium,India
+21,AA Chavan,Right_Hand,Slow left-arm orthodox,India
+22,AA Jhunjhunwala,Right_Hand,Right-arm offbreak,India
+23,AA Kazi,Right_Hand,Slow left-arm orthodox,India
+24,AA Noffke,Right_Hand,Right-arm fast-medium,Australia
+25,AB Agarkar,Right_Hand,Right-arm fast,India
+26,AB Barath,Left_Hand,Right-arm offbreak,India
+27,AB de Villiers,Right_Hand,Right-arm medium,South Africa
+28,AB Dinda,Right_Hand,Right-arm medium-fast,India
+29,AB McDonald,Right_Hand,Right-arm fast-medium,Australia
+30,Abdur Razzak,Left_Hand,Slow left-arm orthodox,Bangladesh
+31,AC Blizzard,Left_Hand,Left-arm medium,Australia
+32,AC Gilchrist,Left_Hand,Right-arm offbreak,Australia
+33,AC Thomas,Right_Hand,Right-arm fast-medium,England
+34,AC Voges,Right_Hand,Slow left-arm orthodox,Australia
+35,AD Mascarenhas,Right_Hand,Right-arm fast-medium,England
+36,AD Mathews,Right_Hand,Right-arm fast-medium,Sri Lanka
+37,AD Nath,Right_Hand,Right-arm medium-fast,India
+38,AD Russell,Right_Hand,Right-arm fast,West Indies
+39,AF Milne,Right_Hand,Right-arm fast,New Zealand
+40,AG Murtaza,Left_Hand,Slow left-arm orthodox,India
+41,AG Paunikar,Right_Hand,,India
+42,AJ Finch,Right_Hand,Slow left-arm orthodox,Australia
+43,AJ Tye,Right_hand,Right-arm fast-medium,
+44,AL Menaria,Left_Hand,Slow left-arm orthodox,India
+45,AM Nayar,Left_Hand,Right-arm medium,India
+46,AM Rahane,Right_Hand,Right-arm medium,India
+47,AM Salvi,Right_Hand,Right-arm medium,India
+48,AN Ahmed,Right_Hand,Right-arm medium-fast,India
+49,AN Ghosh,Right_Hand,Right-arm medium,India
+50,Anand Rajan,Right_Hand,Right-arm medium,India
+51,Anirudh Singh,Left_Hand,Right-arm medium,India
+52,Ankit Sharma,Left_Hand,Slow left-arm orthodox,India
+53,Ankit Soni,Right_hand,Legbreak,
+54,Anureet Singh,Right_Hand,Right-arm medium,India
+55,AP Dole,Right_Hand,Right-arm medium-fast,India
+56,AP Majumdar,Right_Hand,Legbreak googly,India
+57,AP Tare,Right_Hand,,India
+58,AR Bawne,Right_Hand,,
+59,AR Patel,Left_Hand,Slow left-arm orthodox,India
+60,AS Rajpoot,Right_Hand,Right-arm medium,India
+61,AS Raut,Right_Hand,Legbreak googly,India
+62,AS Yadav,Right_hand,,
+63,AT Rayudu,Right_Hand,Right-arm offbreak,India
+64,AUK Pathan,Right_Hand,Right-arm medium,India
+65,AV Wankhade,Right_Hand,,India
+66,Avesh Khan,Right_Hand,Right-arm fast-medium,
+67,Azhar Mahmood,Right_Hand,Right-arm fast-medium,Pakistan
+68,B Akhil,Right_Hand,Right-arm medium-fast,India
+69,B Aparajith,Right_Hand,Right-arm offbreak,India
+70,B Chipli,Right_Hand,Right-arm medium,India
+71,B Geeves,Right_Hand,Right-arm fast-medium,Australia
+72,B Kumar,Right_Hand,Right-arm medium,India
+73,B Laughlin,Right_Hand,Right-arm fast-medium,Australia
+74,B Lee,Right_Hand,Right-arm fast,Australia
+75,B Stanlake,Right_Hand,Right-arm fast,
+76,B Sumanth,Right_Hand,Right-arm medium-fast,India
+77,BA Bhatt,Left_Hand,Slow left-arm orthodox,India
+78,BA Stokes,Left_Hand,Right-arm fast-medium,
+79,Basil Thampi,Right_hand,Right-arm fast,
+80,BAW Mendis,Right_Hand,Right-arm offbreak,Sri Lanka
+81,BB McCullum,Right_Hand,Right-arm medium,New Zealand
+82,BB Samantray,Right_Hand,,India
+83,BB Sran,Left_Hand,Left-arm medium,India
+84,BCJ Cutting,Right_Hand,Right-arm fast-medium,Australia
+85,BE Hendricks,Left_Hand,Left-arm fast-medium,South Africa
+86,Bipul Sharma,Left_Hand,Slow left-arm orthodox,India
+87,BJ Haddin,Right_Hand,,Australia
+88,BJ Hodge,Right_Hand,Right-arm offbreak,Australia
+89,BJ Rohrer,Left_Hand,Right-arm offbreak,Australia
+90,BMAJ Mendis,Left_Hand,Right-arm offbreak,Sri Lanka
+91,BR Dunk,Left_Hand,Right-arm fast,Australia
+92,BW Hilfenhaus,Right_Hand,Right-arm fast,Australia
+93,C de Grandhomme,Right_hand,Legbreak,
+94,C Ganapathy,Right_Hand,Right-arm medium,India
+95,C Ingram,Left_Hand,Right-arm fast-medium,
+96,C Madan,Right_Hand,,India
+97,C Munro,Left_Hand,Right-arm medium-fast,New Zealand
+98,C Nanda,Right_Hand,Legbreak,India
+99,CA Ingram,Left_Hand,Legbreak,South Africa
+100,CA Lynn,Right_Hand,Slow left-arm orthodox,Australia
+101,CA Pujara,Right_Hand,Legbreak,India
+102,CH Gayle,Left_Hand,Right-arm offbreak,West Indies
+103,CH Morris,Right_Hand,Right-arm fast-medium,South Africa
+104,CJ Anderson,Left_Hand,Left-arm medium-fast,New Zealand
+105,CJ Ferguson,Right_Hand,Right-arm medium,Australia
+106,CJ Jordan,Right_Hand,Right-arm fast-medium,England
+107,CJ McKay,Right_Hand,Right-arm fast-medium,Australia
+108,CK Kapugedera,Right_Hand,Right-arm medium,Sri Lanka
+109,CK Langeveldt,Right_Hand,Right-arm fast-medium,England
+110,CL White,Right_Hand,Legbreak googly,Australia
+111,CM Gautam,Right_Hand,,India
+112,CR Brathwaite,Right_Hand,Right-arm fast-medium,West Indies
+113,CR Woakes,Right_hand,Right-arm fast-medium,
+114,CRD Fernando,Right_Hand,Right-arm fast-medium,Sri Lanka
+115,D du Preez,Right_Hand,Right-arm fast-medium,South Africa
+116,D Kalyankrishna,Right_Hand,Right-arm medium-fast,India
+117,D Salunkhe,Right_Hand,Legbreak,India
+118,D Shorey,Right_hand,,
+119,D Short,Left_Hand,Slow left-arm orthodox,
+120,D Wiese,Right_Hand,Right-arm medium-fast,South Africa
+121,D Willey,Right_Hand,Left-arm fast-medium,
+122,DA Miller,Left_Hand,Right-arm offbreak,South Africa
+123,DA Warner,Left_Hand,Legbreak,Australia
+124,DAJ Bracewell,Right_Hand,Right-arm fast-medium,New Zealand
+125,DB Das,Right_Hand,Legbreak googly,India
+126,DB Ravi Teja,Right_Hand,Legbreak googly,India
+127,DE Bollinger,Left_Hand,Left-arm fast-medium,Australia
+128,DH Yagnik,Left_Hand,,India
+129,DJ Bravo,Right_Hand,Right-arm medium-fast,West Indies
+130,DJ Harris,Right_Hand,Right-arm medium,Australia
+131,DJ Hooda,Right_Hand,Right-arm offbreak,India
+132,DJ Hussey,Right_Hand,Right-arm offbreak,Australia
+133,DJ Jacobs,Right_Hand,Right-arm medium,South Africa
+134,DJ Muthuswami,Right_Hand,Right-arm medium,India
+135,DJ Thornely,Right_Hand,Right-arm medium,Australia
+136,DJG Sammy,Right_Hand,Right-arm medium-fast,West Indies
+137,DL Chahar,Right_Hand,Right-arm medium,India
+138,DL Vettori,Left_Hand,Slow left-arm orthodox,New Zealand
+139,DM Bravo,Left_Hand,,
+140,DNT Zoysa,Left_Hand,Left-arm fast-medium,Sri Lanka
+141,DP Nannes,Right_Hand,Left-arm fast,Australia
+142,DP Vijaykumar,Right_Hand,Right-arm medium,India
+143,DPMD Jayawardene,Right_Hand,Right-arm medium,Sri Lanka
+144,DR Martyn,Right_Hand,Right-arm medium,Australia
+145,DR Smith,Right_Hand,Right-arm medium,West Indies
+146,DS Kulkarni,Right_Hand,Right-arm medium,India
+147,DS Lehmann,Left_Hand,Slow left-arm orthodox,Australia
+148,DT Christian,Right_Hand,Right-arm fast-medium,Australia
+149,DT Patil,Right_Hand,,India
+150,DW Steyn,Right_Hand,Right-arm fast,South Africa
+151,E Lewis,Left_Hand,,
+152,EJG Morgan,Left_Hand,Right-arm medium,England
+153,ER Dwivedi,Right_Hand,,India
+154,F Behardien,Right_Hand,Right-arm fast-medium,South Africa
+155,F du Plessis,Right_Hand,Legbreak,South Africa
+156,FH Edwards,Right_Hand,Right-arm fast,West Indies
+157,FY Fazal,Left_Hand,Right-arm medium,India
+158,G Gambhir,Left_Hand,Legbreak,India
+159,Gagandeep Singh,Right_Hand,Right-arm medium-fast,India
+160,GB Hogg,Left_Hand,Slow left-arm chinaman,Australia
+161,GC Smith,Left_Hand,Right-arm offbreak,South Africa
+162,GD McGrath,Right_Hand,Right-arm fast-medium,Australia
+163,GH Vihari,Right_Hand,Right-arm offbreak,India
+164,GJ Bailey,Right_Hand,Right-arm medium,Australia
+165,GJ Maxwell,Right_Hand,Right-arm offbreak,Australia
+166,GR Napier,Right_Hand,Right-arm medium,England
+167,GS Sandhu,Left_Hand,Right-arm fast-medium,Australia
+168,Gurkeerat Singh,Right_Hand,Right-arm offbreak,India
+169,H Brar,Left_Hand,Slow left-arm orthodox,
+170,H Das,Right_Hand,,India
+171,H Gurney,Right_Hand,Right-arm fast-medium,
+172,H Klaasen,Right_hand,,
+173,H Vihari,Right_hand,Right-arm offbreak,
+174,H Viljoen,Right_hand,Right-arm fast,
+175,Harbhajan Singh,Right_Hand,Right-arm offbreak,India
+176,Harmeet Singh,Left_Hand,Slow left-arm orthodox,India
+177,Harmeet Singh (2),Right_Hand,Right-arm fast-medium,
+178,Harpreet Singh,Left_Hand,Right-arm medium,India
+179,HH Gibbs,Right_Hand,Right-arm bowler,South Africa
+180,HH Pandya,Right_Hand,Right-arm medium-fast,India
+181,HM Amla,Right_Hand,Right-arm offbreak,South Africa
+182,HV Patel,Right_Hand,Right-arm medium,India
+183,I Malhotra,Right_Hand,Right-arm medium-fast,India
+184,I Sharma,Right_Hand,Right-arm fast-medium,India
+185,I Sodhi,Right_hand,Legbreak googly,
+186,IC Pandey,Right_Hand,Right-arm medium,India
+187,IK Pathan,Left_Hand,Left-arm medium-fast,India
+188,Imran Tahir,Right_Hand,Legbreak googly,India
+189,Iqbal Abdulla,Left_Hand,Slow left-arm orthodox,India
+190,IR Jaggi,Right_Hand,Legbreak googly,India
+191,Ishan Kishan,Left_Hand,,India
+192,J Archer,Right_hand,Right-arm fast,
+193,J Arunkumar,Right_Hand,Right-arm offbreak,India
+194,J Bairstow,Right_hand,,
+195,J Behrendorff,Right_Hand,Left-arm fast-medium,
+196,J Botha,Right_Hand,Right-arm offbreak,South Africa
+197,J Dala,,Right-arm Medium,
+198,J Denly,Right_hand,,
+199,J Searles,Right_hand,Right-arm fast-medium,
+200,J Suchith,Left_Hand,Slow left-arm orthodox,India
+201,J Syed Mohammad,Left_Hand,Slow left-arm orthodox,India
+202,J Theron,Right_Hand,Right-arm medium-fast,South Africa
+203,J Yadav,Right_Hand,Right-arm offbreak,India
+204,JA Morkel,Left_Hand,Right-arm medium-fast,South Africa
+205,Jaskaran Singh,Right_Hand,Right-arm medium,India
+206,JC Buttler,Right_Hand,,England
+207,JD Ryder,Left_Hand,Right-arm medium,New Zealand
+208,JD Unadkat,Right_Hand,Left-arm medium,India
+209,JDP Oram,Left_Hand,Right-arm fast-medium,New Zealand
+210,JDS Neesham,Left_Hand,Right-arm medium,New Zealand
+211,JE Taylor,Right_Hand,Right-arm fast,New Zealand
+212,JEC Franklin,Left_Hand,Left-arm medium,New Zealand
+213,JH Kallis,Right_Hand,Right-arm fast-medium,South Africa
+214,JJ Bumrah,Right_Hand,Right-arm medium,India
+215,JJ Roy,Right_hand,,
+216,JJ van der Wath,Right_Hand,Right-arm medium-fast,South Africa
+217,JM Kemp,Right_Hand,Right-arm fast-medium,South Africa
+218,JO Holder,Right_Hand,Right-arm medium-fast,West Indies
+219,Joginder Sharma,Right_Hand,Right-arm fast-medium,India
+220,JP Duminy,Left_Hand,Right-arm offbreak,South Africa
+221,JP Faulkner,Right_Hand,Left-arm fast-medium,Australia
+222,JR Hopes,Right_Hand,Right-arm medium,Australia
+223,JW Hastings,Right_Hand,Right-arm fast-medium,Australia
+224,K Ahmed,Right_hand,Left-arm fast-medium,
+225,K Goel,Left_Hand,Right-arm offbreak,India
+226,K Gowtham,Right_hand,Right-arm offbreak,
+227,K Khejroliya,Right_Hand,Left-arm fast-medium,
+228,K Paul,Right_hand,Right-arm fast-medium,
+229,K Rabada,Left_Hand,Right-arm fast,
+230,K Santokie,Left_Hand,Left-arm medium,West Indies
+231,K Upadhyay,Right_Hand,Right-arm medium,India
+232,KA Pollard,Right_Hand,Right-arm medium-fast,West Indies
+233,KAJ Roach,Right_Hand,Right-arm fast,West Indies
+234,Kamran Akmal,Right_Hand,,Pakistan
+235,Kamran Khan,Left_Hand,Left-arm medium-fast,India
+236,Karanveer Singh,Right_Hand,Legbreak googly,India
+237,KB Arun Karthik,Right_Hand,Legbreak googly,India
+238,KC Cariappa,Right_Hand,Legbreak,India
+239,KC Sangakkara,Left_Hand,Right-arm offbreak,Sri Lanka
+240,KD Karthik,Right_Hand,,India
+241,KH Devdhar,Right_Hand,,India
+242,KH Pandya,Left_Hand,Slow left-arm orthodox,India
+243,KJ Abbott,Right_Hand,Right-arm fast-medium,South Africa
+244,KK Cooper,Right_Hand,Right-arm medium,West Indies
+245,KK Nair,Right_Hand,Right-arm offbreak,India
+246,KL Rahul,Right_Hand,,India
+247,KM Asif,Right_Hand,Right-arm medium,
+248,KM Jadhav,Right_Hand,Right-arm offbreak,India
+249,KMDN Kulasekara,Right_Hand,Right-arm fast-medium,Sri Lanka
+250,KP Appanna,Right_Hand,Slow left-arm orthodox,India
+251,KP Pietersen,Right_Hand,Right-arm offbreak,South Africa
+252,KS Williamson,Right_Hand,Right-arm offbreak,New Zealand
+253,Kuldeep Yadav,Left_Hand,Slow left-arm chinaman,India
+254,KV Sharma,Left_Hand,Legbreak googly,India
+255,KW Richardson,Right_Hand,Right-arm fast-medium,Australia
+256,L Ablish,Right_Hand,Right-arm medium-fast,India
+257,L Balaji,Right_Hand,Right-arm medium-fast,India
+258,L Ferguson,Right_Hand,Right-arm fast,
+259,L Livingstone,Right_hand,Right-arm offbreak,
+260,L Ngidi,Right_Hand,Slow left-arm orthodox,
+261,L Plunkett,Right_hand,Right-arm fast,
+262,L Ronchi,Right_Hand,Right-arm fast,Australia
+263,LA Carseldine,Left_Hand,Legbreak,Australia
+264,LA Pomersbach,Left_Hand,Right-arm medium,Australia
+265,LH Ferguson,Right_Hand,Right-arm fast-medium,
+266,LJ Wright,Right_Hand,Right-arm medium-fast,England
+267,LMP Simmons,Right_Hand,Right-arm medium-fast,West Indies
+268,LPC Silva,Right_Hand,Legbreak,Sri Lanka
+269,LR Shukla,Right_Hand,Right-arm medium,India
+270,LRPL Taylor,Right_Hand,Right-arm offbreak,New Zealand
+271,M Ali,Left_Hand,Right-arm offbreak,
+272,M Ashwin,Right_Hand,Legbreak googly,India
+273,M de Lange,Right_Hand,Right-arm fast,South Africa
+274,M Kaif,Right_Hand,Right-arm offbreak,India
+275,M Kartik,Left_Hand,Slow left-arm orthodox,India
+276,M Klinger,Right_Hand,,Australia
+277,M Lomror,Left_Hand,Slow left-arm orthodox,
+278,M Manhas,Right_Hand,Right-arm offbreak,India
+279,M Markande,Right_hand,Legbreak googly,
+280,M Morkel,Left_Hand,Right-arm fast,South Africa
+281,M Muralitharan,Right_Hand,Right-arm offbreak,Sri Lanka
+282,M Ntini,Right_Hand,Right-arm fast,South Africa
+283,M Rawat,Right_Hand,,India
+284,M Santner,Left_Hand,Slow left-arm orthodox,
+285,M Ur Rahman,Right_hand,Right-arm offbreak,
+286,M Vijay,Right_Hand,Right-arm offbreak,India
+287,M Vohra,Right_Hand,Right-arm medium,India
+288,M Wood,Right_hand,Right-arm fast,
+289,MA Agarwal,Right_Hand,,India
+290,MA Khote,Right_Hand,Right-arm medium,India
+291,MA Starc,Left_Hand,Left-arm fast,Australia
+292,Mandeep Singh,Right_Hand,Right-arm medium,India
+293,Mashrafe Mortaza,Right_Hand,Right-arm fast-medium,Bangladesh
+294,MB Parmar,Right_Hand,Right-arm offbreak,India
+295,MC Henriques,Right_Hand,Right-arm fast-medium,Australia
+296,MC Juneja,Right_Hand,Right-arm offbreak,India
+297,MD Mishra,Right_Hand,Right-arm offbreak,India
+298,MDKJ Perera,Left_Hand,,Sri Lanka
+299,MEK Hussey,Left_Hand,Right-arm medium,Australia
+300,MF Maharoof,Right_Hand,Right-arm fast-medium,India
+301,MG Johnson,Left_Hand,Left-arm fast,Australia
+302,MG Neser,Right_Hand,Right-arm medium,Australia
+303,Misbah-ul-Haq,Right_Hand,Legbreak,Pakistan
+304,MJ Clarke,Right_Hand,Slow left-arm orthodox,Australia
+305,MJ Guptill,Right_Hand,Right-arm offbreak,New Zealand
+306,MJ Henry,Right_Hand,Right-arm fast,
+307,MJ Lumb,Left_Hand,Right-arm medium,England
+308,MJ McClenaghan,Left_Hand,Left-arm fast-medium,New Zealand
+309,MK Pandey,Right_Hand,Right-arm medium,India
+310,MK Tiwary,Right_Hand,Legbreak googly,India
+311,ML Hayden,Left_Hand,Right-arm medium,Australia
+312,MM Patel,Right_Hand,Right-arm medium-fast,India
+313,MM Sharma,Right_Hand,Right-arm medium,India
+314,MN Samuels,Right_Hand,Right-arm offbreak,West Indies
+315,MN van Wyk,Right_Hand,Slow left-arm orthodox,South Africa
+316,Mohammad Ashraful,Right_Hand,Right-arm offbreak,Bangladesh
+317,Mohammad Asif,Left_Hand,Right-arm fast-medium,Pakistan
+318,Mohammad Hafeez,Right_Hand,Right-arm offbreak,Pakistan
+319,Mohammad Nabi,Right_hand,Right-arm offbreak,
+320,Mohammed Shami,Right_Hand,Right-arm fast-medium,India
+321,Mohammed Siraj,Right_hand,Right-arm fast,
+322,MP Stoinis,Right_Hand,Right-arm medium,Australia
+323,MR Marsh,Right_Hand,Right-arm medium,Australia
+324,MS Bisla,Right_Hand,,India
+325,MS Dhoni,Right_Hand,Right-arm medium,India
+326,MS Gony,Right_Hand,Right-arm medium,India
+327,MS Wade,Left_Hand,Right-arm medium,Australia
+328,Mustafizur Rahman,Left_Hand,Left-arm fast-medium,Bangladesh
+329,MV Boucher,Right_Hand,Right-arm medium,South Africa
+330,N Naik,Right_hand,,
+331,N Pooran,Left_Hand,,
+332,N Rana,Left_Hand,Right-arm offbreak,India
+333,N Saini,Right_Hand,Right-arm fast,India
+334,NB Singh,Right_Hand,Right-arm fast,
+335,ND Doshi,Right_Hand,Slow left-arm orthodox,India
+336,Niraj Patel,Left_Hand,,
+337,NJ Maddinson,Left_Hand,Slow left-arm orthodox,Australia
+338,NJ Rimmington,Right_Hand,Right-arm fast-medium,Australia
+339,NK Patel,Left_Hand,,India
+340,NL McCullum,Right_Hand,Right-arm offbreak,New Zealand
+341,NLTC Perera,Left_Hand,Right-arm medium-fast,Sri Lanka
+342,NM Coulter-Nile,Right_Hand,Right-arm fast,Australia
+343,NS Naik,Right_Hand,,India
+344,NV Ojha,Right_Hand,,India
+345,O Thomas,Right_Hand,Right-arm fast,
+346,OA Shah,Right_Hand,Right-arm offbreak,England
+347,P Amarnath,Right_Hand,Right-arm medium,India
+348,P Awana,Right_Hand,Right-arm medium,India
+349,P Chopra,Right_hand,,
+350,P Dharmani,Right_Hand,,India
+351,P Dogra,Right_Hand,Legbreak,India
+352,P Krishna,Right_hand,Right-arm fast,
+353,P Kumar,Right_Hand,Right-arm medium,India
+354,P Negi,Left_Hand,Slow left-arm orthodox,India
+355,P Parameswaran,Right_Hand,Left-arm medium,India
+356,P Prasanth,Left_Hand,Slow left-arm orthodox,India
+357,P R Barman,Right_hand,Legbreak,
+358,P Raj,Right_Hand,Left-arm medium,
+359,P Sahu,Right_Hand,Legbreak googly,India
+360,P Shaw,Right_hand,,
+361,P Suyal,Right_Hand,Left-arm medium,India
+362,PA Patel,Left_Hand,,India
+363,PA Reddy,Right_Hand,Legbreak,India
+364,Pankaj Singh,Right_Hand,Right-arm medium-fast,India
+365,Parvez Rasool,Right_Hand,Right-arm offbreak,India
+366,PC Valthaty,Right_Hand,Right-arm medium,India
+367,PD Collingwood,Right_Hand,Right-arm medium,England
+368,PJ Cummins,Right_Hand,Right-arm fast,Australia
+369,PJ Sangwan,Right_Hand,Left-arm medium,India
+370,PM Sarvesh Kumar,Right_Hand,Right-arm medium,India
+371,PP Chawla,Left_Hand,Legbreak,India
+372,PP Ojha,Left_Hand,Slow left-arm orthodox,India
+373,PR Shah,Right_Hand,,India
+374,PSP Handscomb,Right_Hand,,Australia
+375,PV Tambe,Right_Hand,Legbreak,India
+376,Q de Kock,Left_Hand,,South Africa
+377,R Ashwin,Right_Hand,Right-arm offbreak,India
+378,R Bhatia,Right_Hand,Right-arm medium-fast,India
+379,R Bhui,Right_hand,,
+380,R Bishnoi,Right_Hand,Right-arm medium-fast,India
+381,R Dhawan,Right_Hand,Right-arm medium-fast,India
+382,R Dravid,Right_Hand,Right-arm offbreak,India
+383,R McLaren,Left_Hand,Right-arm medium-fast,South Africa
+384,R Ninan,Right_Hand,Right-arm offbreak,India
+385,R Parag,Right_hand,Legbreak,
+386,R Rampaul,Left_Hand,Right-arm fast-medium,West Indies
+387,R Salam,Right_Hand,Right-arm Fast,
+388,R Sathish,Right_Hand,Right-arm medium,India
+389,R Sharma,Right_Hand,Right-arm offbreak,India
+390,R Shukla,Right_Hand,Right-arm medium,India
+391,R Singh,Right_hand,,
+392,R Tewatia,Left_Hand,Legbreak,India
+393,R Vinay Kumar,Right_Hand,Right-arm medium,India
+394,RA Jadeja,Left_Hand,Slow left-arm orthodox,India
+395,RA Shaikh,Left_Hand,Left-arm medium,India
+396,RA Tripathi,Right_hand,Right-arm medium,
+397,Rashid Khan,Right_hand,Legbreak googly,
+398,RD Chahar,Right_hand,Legbreak googly,
+399,RE Levi,Right_Hand,Right-arm medium,South Africa
+400,RE van der Merwe,Right_Hand,Slow left-arm orthodox,South Africa
+401,RG More,Right_Hand,Right-arm medium,India
+402,RG Sharma,Right_Hand,Right-arm offbreak,India
+403,RJ Harris,Right_Hand,Right-arm fast,Australia
+404,RJ Peterson,Left_Hand,Slow left-arm orthodox,South Africa
+405,RJ Quiney,Left_Hand,Right-arm medium,Australia
+406,RN ten Doeschate,Right_Hand,Right-arm medium-fast,Netherlands
+407,RP Singh,Right_Hand,Left-arm fast-medium,India
+408,RR Bhatkal,Right_Hand,Right-arm medium,India
+409,RR Bose,Right_Hand,Right-arm fast-medium,India
+410,RR Pant,Left_Hand,,India
+411,RR Powar,Right_Hand,Right-arm offbreak,India
+412,RR Raje,Right_Hand,Right-arm fast-medium,India
+413,RR Rossouw,Left_Hand,Right-arm offbreak,South Africa
+414,RR Sarwan,Right_Hand,Legbreak,West Indies
+415,RS Bopara,Right_Hand,Right-arm medium,England
+416,RS Gavaskar,Left_Hand,Slow left-arm orthodox,India
+417,RS Sodhi,Right_Hand,Right-arm medium,India
+418,RT Ponting,Right_Hand,Right-arm medium,Australia
+419,RV Gomez,Right_Hand,Right-arm medium,India
+420,RV Pawar,Left_Hand,Slow left-arm orthodox,India
+421,RV Uthappa,Right_Hand,Right-arm medium,India
+422,RW Price,Right_Hand,Slow left-arm orthodox,Zimbabwea
+423,S Anirudha,Right_Hand,,India
+424,S Aravind,Left_Hand,Left-arm medium-fast,India
+425,S Badree,Right_Hand,Legbreak,West Indies
+426,S Badrinath,Right_Hand,Right-arm offbreak,India
+427,S Chanderpaul,Left_Hand,Legbreak,West Indies
+428,S Curran,Left_Hand,Left-arm medium-fast,
+429,S Dhawan,Left_Hand,Right-arm offbreak,India
+430,S Dube,Left_Hand,Right-arm fast-medium,
+431,S Gill,Right_hand,,
+432,S Gopal,Right_Hand,Legbreak,India
+433,S Hetmyer,Left_Hand,,
+434,S Kaul,Right_Hand,Right-arm medium,India
+435,S Kaushik,Right_Hand,Slow left-arm chinaman,India
+436,S Kuggeleijn,Right_Hand,Right-arm fast,
+437,S Ladda,Right_Hand,Legbreak,India
+438,S Lamichhane,Right_hand,Legbreak googly,
+439,S Mavi,Right_hand,Right-arm fast-medium,
+440,S Midhun,,Legbreak,
+441,S Nadeem,Right_Hand,Slow left-arm orthodox,India
+442,S Narwal,Left_Hand,Right-arm medium,India
+443,S Rana,Right_Hand,Right-arm medium-fast,India
+444,S Randiv,Right_Hand,Right-arm offbreak,Sri Lanka
+445,S Rutherford,Left_Hand,Right-arm fast-medium,
+446,S Sharma,Right_Hand,Right-arm fast-medium,
+447,S Singh,Right_hand,,
+448,S Sohal,Right_Hand,Legbreak,India
+449,S Sreesanth,Right_Hand,Right-arm fast-medium,India
+450,S Sriram,Left_Hand,Slow left-arm orthodox,India
+451,S Tyagi,Right_Hand,Right-arm medium,India
+452,S Vidyut,Left_Hand,Slow left-arm orthodox,India
+453,S Warrier,Right_Hand,Right-arm fast-medium,
+454,SA Abbott,Right_Hand,Right-arm fast-medium,New Zealand
+455,SA Asnodkar,Right_Hand,Right-arm offbreak,India
+456,SA Yadav,Right_Hand,Right-arm offbreak,India
+457,Sachin Baby,Left_Hand,Right-arm offbreak,India
+458,Salman Butt,Left_Hand,Right-arm offbreak,Pakistan
+459,Sandeep Sharma,Right_Hand,Right-arm medium,India
+460,SB Bangar,Right_Hand,Right-arm medium-fast,India
+461,SB Jakati,Left_Hand,Slow left-arm orthodox,India
+462,SB Joshi,Left_Hand,Slow left-arm orthodox,India
+463,SB Styris,Right_Hand,Right-arm medium,New Zealand
+464,SB Wagh,Left_Hand,Left-arm medium-fast,India
+465,SC Ganguly,Left_Hand,Right-arm medium,India
+466,SD Chitnis,Right_Hand,Right-arm offbreak,India
+467,SD Lad,Right_hand,,
+468,SE Bond,Right_Hand,Right-arm fast,New Zealand
+469,SE Marsh,Left_Hand,Slow left-arm orthodox,Australia
+470,Shahid Afridi,Right_Hand,Legbreak googly,Pakistan
+471,Shakib Al Hasan,Left_Hand,Slow left-arm orthodox,Bangladesh
+472,Shivam Sharma,Right_Hand,Right-arm offbreak,India
+473,Shoaib Ahmed,Right_Hand,Right-arm fast-medium,Pakistan
+474,Shoaib Akhtar,Right_Hand,Right-arm fast,Pakistan
+475,Shoaib Malik,Right_Hand,Right-arm offbreak,Pakistan
+476,SJ Srivastava,Right_Hand,Left-arm fast-medium,India
+477,SK Raina,Left_Hand,Right-arm offbreak,India
+478,SK Trivedi,Right_Hand,Right-arm medium,India
+479,SK Warne,Right_Hand,Legbreak googly,Australia
+480,SL Malinga,Right_Hand,Right-arm fast,Sri Lanka
+481,SM Boland,Right_Hand,Right-arm fast-medium,Australia
+482,SM Harwood,Right_Hand,Right-arm fast-medium,Australia
+483,SM Katich,Left_Hand,Slow left-arm chinaman,Australia
+484,SM Pollock,Right_Hand,Right-arm fast-medium,South Africa
+485,SMSM Senanayake,Right_Hand,Right-arm offbreak,Sri Lanka
+486,SN Khan,Right_Hand,Legbreak,India
+487,SN Thakur,Right_Hand,Right-arm medium,India
+488,Sohail Tanvir,Left_Hand,Left-arm medium-fast,Pakistan
+489,SP Fleming,Left_Hand,,New Zealand
+490,SP Goswami,Left_Hand,,India
+491,SP Jackson,Right_hand,,
+492,SP Narine,Left_Hand,Right-arm offbreak,West Indies
+493,SPD Smith,Right_Hand,Legbreak googly,India
+494,SR Tendulkar,Right_Hand,Right-arm offbreak,India
+495,SR Watson,Right_Hand,Right-arm fast-medium,Australia
+496,SS Agarwal,Right_Hand,Legbreak googly,
+497,SS Iyer,Right_Hand,Legbreak googly,India
+498,SS Mundhe,Right_Hand,Right-arm medium,India
+499,SS Sarkar,Right_Hand,Right-arm medium,India
+500,SS Shaikh,Right_Hand,Right-arm medium,India
+501,SS Tiwary,Left_Hand,,India
+502,ST Jayasuriya,Left_Hand,Slow left-arm orthodox,Sri Lanka
+503,STR Binny,Right_Hand,Right-arm medium,India
+504,Sunny Gupta,Right_Hand,Right-arm offbreak,India
+505,Sunny Singh,Right_Hand,Right-arm medium-fast,India
+506,SV Samson,Right_Hand,,India
+507,SW Billings,Right_Hand,,England
+508,SW Tait,Right_Hand,Right-arm fast,Australia
+509,Swapnil Singh,Right_Hand,Slow left-arm orthodox,India
+510,T Curran,Right_hand,Right-arm fast-medium,
+511,T Henderson,Right_Hand,Right-arm fast-medium,South Africa
+512,T Kohli,Right_Hand,Right-arm medium,India
+513,T Mishra,Right_Hand,Right-arm fast-medium,India
+514,T Natarajan,Left_Hand,Left-arm fast-medium,
+515,T Shamsi,Right_Hand,Slow left-arm chinaman,South Africa
+516,T Taibu,Right_Hand,Right-arm medium,Zimbabwea
+517,T Thushara,Left_Hand,Left-arm fast-medium,Sri Lanka
+518,TA Boult,Right_Hand,Left-arm fast-medium,New Zealand
+519,TD Paine,Right_Hand,Right-arm medium,Australia
+520,Tejas Baroka,,Legbreak googly,
+521,TG Southee,Right_Hand,Right-arm medium-fast,New Zealand
+522,TL Suman,Right_Hand,Right-arm offbreak,India
+523,TM Dilshan,Right_Hand,Right-arm offbreak,Sri Lanka
+524,TM Head,Left_Hand,Right-arm offbreak,Australia
+525,TM Srivastava,Left_Hand,Right-arm medium,India
+526,TP Sudhindra,Left_Hand,Right-arm fast,India
+527,TR Birt,Left_Hand,Right-arm medium,Australia
+528,TS Mills,Right_hand,Left-arm fast,
+529,U Kaul,Left_Hand,,India
+530,UA Birla,Right_Hand,Right-arm medium,India
+531,UBT Chand,Right_Hand,Right-arm offbreak,India
+532,Umar Gul,Right_Hand,Right-arm fast-medium,Pakistan
+533,UT Khawaja,Left_Hand,Right-arm medium,Australia
+534,UT Yadav,Right_Hand,Right-arm fast-medium,India
+535,V Chakravarthy,Right_Hand,Legbreak,
+536,V Kohli,Right_Hand,Right-arm medium,India
+537,V Pratap Singh,Right_Hand,Right-arm medium,India
+538,V Sehwag,Right_Hand,Right-arm offbreak,India
+539,V Shankar,Right_Hand,Right-arm medium,India
+540,VH Zol,Left_Hand,Right-arm offbreak,India
+541,Vishnu Vinod,Right_hand,,
+542,VR Aaron,Right_Hand,Right-arm fast,India
+543,VRV Singh,Right_Hand,Right-arm medium-fast,India
+544,VS Malik,Right_Hand,Right-arm medium,India
+545,VS Yeligati,Right_Hand,Right-arm offbreak,India
+546,VVS Laxman,Right_Hand,Right-arm offbreak,India
+547,VY Mahesh,Right_Hand,Right-arm medium-fast,India
+548,W Jaffer,Right_Hand,Right-arm offbreak,India
+549,WA Mota,Right_Hand,Right-arm medium,India
+550,Washington Sundar,Left_Hand,Right-arm offbreak,
+551,WD Parnell,Left_Hand,Left-arm medium-fast,South Africa
+552,WP Saha,Right_Hand,,India
+553,WPUJC Vaas,Left_Hand,Left-arm fast-medium,Sri Lanka
+554,X Thalaivan Sargunam,Right_Hand,Right-arm offbreak,India
+555,Y Gnaneswara Rao,Right_Hand,Right-arm medium,India
+556,Y Nagar,Right_Hand,Right-arm offbreak,India
+557,Y Venugopal Rao,Right_Hand,Right-arm offbreak,India
+558,YA Abdulla,Left_Hand,Left-arm fast-medium,India
+559,Yashpal Singh,Right_Hand,Right-arm medium,India
+560,YK Pathan,Right_Hand,Right-arm offbreak,India
+561,Younis Khan,Right_Hand,Right-arm medium,Pakistan
+562,YS Chahal,Right_Hand,Legbreak googly,India
+563,Yuvraj Singh,Left_Hand,Slow left-arm orthodox,India
+564,YV Takawale,Right_Hand,,India
+565,Z Khan,Right_Hand,Left-arm fast-medium,India
